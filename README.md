@@ -4,6 +4,7 @@ Hi there 👋
 <h1>.NET | Python | Unity | C | C++</h1>
 
 <hr>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euqIrn3h&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euqIrn3h)
+<hr>
 <a href="https://www.linkedin.com/in/henrique-rodrigues-750951226/">LinkdIn</a>
 
