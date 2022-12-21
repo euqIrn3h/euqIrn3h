@@ -1,5 +1,5 @@
 Hi there 👋
-  My name is Henrique and i hope you find the help you arelooking for...
+  My name is Henrique and i hope you find the help you are looking for...
 
 <h1>.NET | Python | Unity | C | C++</h1>
 
