@@ -1,7 +1,7 @@
 Hi there 👋
   My name is Henrique and i hope you find the help you are looking for...
 
-<h1>.NET | NodeJs | Angular | ReactJs | Unity</h1>
+<h1>.NET | NodeJs | Angular | ReactJs</h1>
 <h2> C#  | JavaScript | C | C++</h2>
 
 <hr>
